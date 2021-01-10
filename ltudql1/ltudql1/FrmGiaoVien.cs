@@ -31,5 +31,30 @@ namespace ltudql1
         {
 
         }
+
+        private void FrmGiaoVien_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox13_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabGV_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox12_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabLamBai_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

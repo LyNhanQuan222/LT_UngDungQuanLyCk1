@@ -26,5 +26,10 @@ namespace ltudql1
         {
 
         }
+
+        private void tabLamBai_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
